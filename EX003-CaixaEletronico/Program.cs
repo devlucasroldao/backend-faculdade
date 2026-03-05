@@ -21,26 +21,42 @@ do
     opcao = int.Parse(Console.ReadLine());
     switch (opcao) 
     {
-        case 1: opcao = 1;
-            Console.WriteLine($"Saldo Atual: {saldo:F2}");
+        case 1:
+            Console.WriteLine($"Saldo atual: R$ {saldo:F2}");
             break;
-        case 2: opcao = 2;
-            Console.WriteLine($"Saldo Atual: {saldo}");
+
+        case 2:
             Console.WriteLine("Qual valor deseja depositar?");
             decimal deposito = Convert.ToDecimal(Console.ReadLine());
-            saldo = saldo + deposito;
-            Console.WriteLine($"Seu saldo agora é de R${saldo}");
+
+            saldo += deposito;
+
+            Console.WriteLine($"Depósito realizado. Saldo atual: R$ {saldo:F2}");
             break;
-        case 3: opcao = 3;
-            Console.WriteLine($"Saldo Atual: {saldo}");
+
+        case 3:
             Console.WriteLine("Qual valor deseja sacar?");
-            decimal sacar = Convert.ToDecimal(Console.ReadLine());
-            saldo = saldo - sacar;
-            Console.WriteLine($"Saldo Atual: {saldo}");
+            decimal saque = Convert.ToDecimal(Console.ReadLine());
+
+            if (saque <= saldo)
+            {
+                saldo -= saque;
+                Console.WriteLine($"Saque realizado. Saldo atual: R$ {saldo:F2}");
+            }
+            else
+            {
+                Console.WriteLine("Saldo insuficiente.");
+            }
+
             break;
-        case 4: opcao = 4;
-            Console.WriteLine($"Saldo Atual: {saldo}");
-            Console.WriteLine("Obrigado por utilizar nossos serviços!\nSaindo do programa...");
+
+        case 4:
+            Console.WriteLine("Obrigado por utilizar nossos serviços!");
+            break;
+
+        default:
+            Console.WriteLine("Opção inválida.");
             break;
     }
+
 } while (opcao != 4);
