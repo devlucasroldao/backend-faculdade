@@ -1,0 +1,15 @@
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\bin\Debug\net10.0\EX001.exe
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\bin\Debug\net10.0\EX001.deps.json
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\bin\Debug\net10.0\EX001.runtimeconfig.json
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\bin\Debug\net10.0\EX001.dll
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\bin\Debug\net10.0\EX001.pdb
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\obj\Debug\net10.0\EX001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\obj\Debug\net10.0\EX001.AssemblyInfoInputs.cache
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\obj\Debug\net10.0\EX001.AssemblyInfo.cs
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\obj\Debug\net10.0\EX001.csproj.CoreCompileInputs.cache
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\obj\Debug\net10.0\EX001.sourcelink.json
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\obj\Debug\net10.0\EX001.dll
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\obj\Debug\net10.0\refint\EX001.dll
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\obj\Debug\net10.0\EX001.pdb
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\obj\Debug\net10.0\EX001.genruntimeconfig.cache
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX001\obj\Debug\net10.0\ref\EX001.dll
