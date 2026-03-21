@@ -4,4 +4,4 @@ Este repositório reúne as atividades e projetos com foco em Back-End (utilizan
 
 **Tecnologias utilizadas:**
 * C#
-* (.NET / SQL Server / etc - adicione se houver)
+* (.NET / SQL Server)
