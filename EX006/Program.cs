@@ -1,57 +1,4 @@
-﻿namespace EX006;
-
-public class Pessoa
-{
-    public int Idade { get; set; }
-
-    public string Nome { get; set; } = ""; //usando o prop
-    
-    public string Cpf { get; private set; }
-
-    public DateTime DataNascimento { get;}
-
-    /* private int idade; // campo privado
-
-    public int Idade; // propery (com letra maíuscula por converção)
-    {
-        get
-        {
-            return idade;
-        }
-        set
-        {
-            if (value < 0)
-            {
-                Console.WriteLine("Idade inválida");
-            }
-        } else
-        {
-            idade = value;
-        }
-    }
-    // public int Idade;
-    /* private int Idade;
-
-    public int GetIdade()
-    {
-        return Idade;
-    }
-
-    public void SetIdade(int idade)
-    {
-        if (idade < 0)
-        {
-            Console.WriteLine("Idade invalida");
-        }
-        else
-        {
-            Idade = idade;
-        }
-    } */
-}
-//Program.cs
-
-/* using System.Collections;
+﻿/* using System.Collections;
 
 Pessoa pessoa1 = new Pessoa();
 
@@ -63,7 +10,7 @@ Console.WriteLine($"Idade: {qualIdade}"); */
 
 /* pessoa1.Idade = 25; // chama o set por de baixo dos panos
 
-Console.WriteLine(pessoa1.Idade); // chama o get por de baixo dos panos
+Console.WriteLine(pessoa1.Idade); // chama o get por de baixo dos panos 
 
 
 // Array
@@ -105,7 +52,7 @@ livros.Remove("Diario de um Banana");
 //removendo pelo indice
 livros.RemoveAt(1);
 
-//verificar
+//verificar 
 bool tem = livros.Contains("Diario de um Banana"); //true (se tiver)
 int posicao = livros.IndexOf("Diario de um Banana"); //em qual posição(index) está o item
 int total = livros.Count; //total de livros(itens)

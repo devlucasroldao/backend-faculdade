@@ -1,0 +1,15 @@
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\bin\Debug\net10.0\EX003-CaixaEletronico.exe
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\bin\Debug\net10.0\EX003-CaixaEletronico.deps.json
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\bin\Debug\net10.0\EX003-CaixaEletronico.runtimeconfig.json
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\bin\Debug\net10.0\EX003-CaixaEletronico.dll
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\bin\Debug\net10.0\EX003-CaixaEletronico.pdb
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\obj\Debug\net10.0\EX003-CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\obj\Debug\net10.0\EX003-CaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\obj\Debug\net10.0\EX003-CaixaEletronico.AssemblyInfo.cs
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\obj\Debug\net10.0\EX003-CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\obj\Debug\net10.0\EX003-CaixaEletronico.sourcelink.json
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\obj\Debug\net10.0\EX003-CaixaEletronico.dll
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\obj\Debug\net10.0\refint\EX003-CaixaEletronico.dll
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\obj\Debug\net10.0\EX003-CaixaEletronico.pdb
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\obj\Debug\net10.0\EX003-CaixaEletronico.genruntimeconfig.cache
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX003-CaixaEletronico\obj\Debug\net10.0\ref\EX003-CaixaEletronico.dll
