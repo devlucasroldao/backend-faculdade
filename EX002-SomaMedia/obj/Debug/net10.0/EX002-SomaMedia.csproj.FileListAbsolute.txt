@@ -1,0 +1,15 @@
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\bin\Debug\net10.0\EX002-SomaMedia.exe
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\bin\Debug\net10.0\EX002-SomaMedia.deps.json
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\bin\Debug\net10.0\EX002-SomaMedia.runtimeconfig.json
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\bin\Debug\net10.0\EX002-SomaMedia.dll
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\bin\Debug\net10.0\EX002-SomaMedia.pdb
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\obj\Debug\net10.0\EX002-SomaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\obj\Debug\net10.0\EX002-SomaMedia.AssemblyInfoInputs.cache
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\obj\Debug\net10.0\EX002-SomaMedia.AssemblyInfo.cs
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\obj\Debug\net10.0\EX002-SomaMedia.csproj.CoreCompileInputs.cache
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\obj\Debug\net10.0\EX002-SomaMedia.sourcelink.json
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\obj\Debug\net10.0\EX002-SomaMedia.dll
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\obj\Debug\net10.0\refint\EX002-SomaMedia.dll
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\obj\Debug\net10.0\EX002-SomaMedia.pdb
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\obj\Debug\net10.0\EX002-SomaMedia.genruntimeconfig.cache
+C:\Users\lucas\RiderProjects\PrimeiroProjeto\EX002-SomaMedia\obj\Debug\net10.0\ref\EX002-SomaMedia.dll
