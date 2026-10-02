@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX014-JogodaForca\\EX014-JogodaForca.csproj": {}
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX014-JogodaForca\\EX014-JogodaForca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX014-JogodaForca\\EX014-JogodaForca.csproj": {
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX014-JogodaForca\\EX014-JogodaForca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX014-JogodaForca\\EX014-JogodaForca.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX014-JogodaForca\\EX014-JogodaForca.csproj",
         "projectName": "EX014-JogodaForca",
-        "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX014-JogodaForca\\EX014-JogodaForca.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX014-JogodaForca\\EX014-JogodaForca.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX014-JogodaForca\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX014-JogodaForca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX006-ListaCompras\\EX006-ListaCompras.csproj": {}
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX006-ListaCompras\\EX006-ListaCompras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX006-ListaCompras\\EX006-ListaCompras.csproj": {
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX006-ListaCompras\\EX006-ListaCompras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX006-ListaCompras\\EX006-ListaCompras.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX006-ListaCompras\\EX006-ListaCompras.csproj",
         "projectName": "EX006-ListaCompras",
-        "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX006-ListaCompras\\EX006-ListaCompras.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX006-ListaCompras\\EX006-ListaCompras.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX006-ListaCompras\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX006-ListaCompras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

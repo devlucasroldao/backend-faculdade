@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Ex001-PrimeiroArray\\Ex001-PrimeiroArray.csproj": {}
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Ex001-PrimeiroArray\\Ex001-PrimeiroArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Ex001-PrimeiroArray\\Ex001-PrimeiroArray.csproj": {
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Ex001-PrimeiroArray\\Ex001-PrimeiroArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Ex001-PrimeiroArray\\Ex001-PrimeiroArray.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Ex001-PrimeiroArray\\Ex001-PrimeiroArray.csproj",
         "projectName": "Ex001-PrimeiroArray",
-        "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Ex001-PrimeiroArray\\Ex001-PrimeiroArray.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Ex001-PrimeiroArray\\Ex001-PrimeiroArray.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Ex001-PrimeiroArray\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Ex001-PrimeiroArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

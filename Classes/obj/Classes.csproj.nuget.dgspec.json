@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Classes\\Classes.csproj": {}
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Classes\\Classes.csproj": {
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Classes\\Classes.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Classes\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX012-ListaObjetos\\EX012-ListaObjetos.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX012-ListaObjetos\\EX012-ListaObjetos.csproj",
       "projectName": "EX012-ListaObjetos",
-      "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX012-ListaObjetos\\EX012-ListaObjetos.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX012-ListaObjetos\\EX012-ListaObjetos.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX012-ListaObjetos\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX012-ListaObjetos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

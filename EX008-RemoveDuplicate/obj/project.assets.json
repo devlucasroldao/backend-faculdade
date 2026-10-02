@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX008-RemoveDuplicate\\EX008-RemoveDuplicate.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX008-RemoveDuplicate\\EX008-RemoveDuplicate.csproj",
       "projectName": "EX008-RemoveDuplicate",
-      "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX008-RemoveDuplicate\\EX008-RemoveDuplicate.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX008-RemoveDuplicate\\EX008-RemoveDuplicate.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX008-RemoveDuplicate\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX008-RemoveDuplicate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

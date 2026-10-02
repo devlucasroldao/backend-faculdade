@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Metodos\\Metodos.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Metodos\\Metodos.csproj",
       "projectName": "Metodos",
-      "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Metodos\\Metodos.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Metodos\\Metodos.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\Metodos\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\Metodos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

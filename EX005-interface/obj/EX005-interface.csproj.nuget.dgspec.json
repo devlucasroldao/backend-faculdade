@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX005-interface\\EX005-interface.csproj": {}
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX005-interface\\EX005-interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX005-interface\\EX005-interface.csproj": {
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX005-interface\\EX005-interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX005-interface\\EX005-interface.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX005-interface\\EX005-interface.csproj",
         "projectName": "EX005-interface",
-        "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX005-interface\\EX005-interface.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX005-interface\\EX005-interface.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX005-interface\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX005-interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

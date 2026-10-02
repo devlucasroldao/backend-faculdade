@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX003-MaiorMenor\\EX003-MaiorMenor.csproj": {}
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX003-MaiorMenor\\EX003-MaiorMenor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX003-MaiorMenor\\EX003-MaiorMenor.csproj": {
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX003-MaiorMenor\\EX003-MaiorMenor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX003-MaiorMenor\\EX003-MaiorMenor.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX003-MaiorMenor\\EX003-MaiorMenor.csproj",
         "projectName": "EX003-MaiorMenor",
-        "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX003-MaiorMenor\\EX003-MaiorMenor.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX003-MaiorMenor\\EX003-MaiorMenor.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX003-MaiorMenor\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX003-MaiorMenor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

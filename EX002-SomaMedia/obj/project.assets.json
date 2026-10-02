@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX002-SomaMedia\\EX002-SomaMedia.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX002-SomaMedia\\EX002-SomaMedia.csproj",
       "projectName": "EX002-SomaMedia",
-      "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX002-SomaMedia\\EX002-SomaMedia.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX002-SomaMedia\\EX002-SomaMedia.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX002-SomaMedia\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX002-SomaMedia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

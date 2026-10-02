@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX011-ComparacaoConversao\\EX011-ComparacaoConversao.csproj": {}
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX011-ComparacaoConversao\\EX011-ComparacaoConversao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX011-ComparacaoConversao\\EX011-ComparacaoConversao.csproj": {
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX011-ComparacaoConversao\\EX011-ComparacaoConversao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX011-ComparacaoConversao\\EX011-ComparacaoConversao.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX011-ComparacaoConversao\\EX011-ComparacaoConversao.csproj",
         "projectName": "EX011-ComparacaoConversao",
-        "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX011-ComparacaoConversao\\EX011-ComparacaoConversao.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX011-ComparacaoConversao\\EX011-ComparacaoConversao.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX011-ComparacaoConversao\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX011-ComparacaoConversao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

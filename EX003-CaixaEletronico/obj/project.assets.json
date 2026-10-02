@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX003-CaixaEletronico\\EX003-CaixaEletronico.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX003-CaixaEletronico\\EX003-CaixaEletronico.csproj",
       "projectName": "EX003-CaixaEletronico",
-      "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX003-CaixaEletronico\\EX003-CaixaEletronico.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX003-CaixaEletronico\\EX003-CaixaEletronico.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX003-CaixaEletronico\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX003-CaixaEletronico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

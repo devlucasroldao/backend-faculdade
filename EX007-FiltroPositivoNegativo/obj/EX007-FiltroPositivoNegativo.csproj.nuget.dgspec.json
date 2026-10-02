@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX007-FiltroPositivoNegativo\\EX007-FiltroPositivoNegativo.csproj": {}
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX007-FiltroPositivoNegativo\\EX007-FiltroPositivoNegativo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX007-FiltroPositivoNegativo\\EX007-FiltroPositivoNegativo.csproj": {
+    "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX007-FiltroPositivoNegativo\\EX007-FiltroPositivoNegativo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX007-FiltroPositivoNegativo\\EX007-FiltroPositivoNegativo.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX007-FiltroPositivoNegativo\\EX007-FiltroPositivoNegativo.csproj",
         "projectName": "EX007-FiltroPositivoNegativo",
-        "projectPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX007-FiltroPositivoNegativo\\EX007-FiltroPositivoNegativo.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX007-FiltroPositivoNegativo\\EX007-FiltroPositivoNegativo.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\RiderProjects\\PrimeiroProjeto\\EX007-FiltroPositivoNegativo\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\MeusProjetos\\backend-faculdade\\EX007-FiltroPositivoNegativo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
